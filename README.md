@@ -33,4 +33,4 @@ Also exploring using different similarity metrics and changing the hyper-paramet
 
 If you want to replicate the results of this project you must download the [data folder](https://github.com/jhenaoa4/Unsupervised-learning-algorithms-from-scratch/tree/main/data) and simply run the [notebook]((https://github.com/jhenaoa4/Unsupervised-learning-algorithms-from-scratch/blob/main/Unsupervised_Learning_Juliana_Henao.ipynb/)). The notebook already includes a requirements.txt generator.
 
-Also, the description, analysis and conclusion of the results are in te [paper](https://github.com/jhenaoa4/Unsupervised-learning-algorithms-from-scratch/blob/main/Trabajo_No_supervisado_Juliana_Henao.pdf) mentioned above.
+Also, the description, analysis and conclusion of the results are in the [paper](https://github.com/jhenaoa4/Unsupervised-learning-algorithms-from-scratch/blob/main/Trabajo_No_supervisado_Juliana_Henao.pdf) mentioned above.
