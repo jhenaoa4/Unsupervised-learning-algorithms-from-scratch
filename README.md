@@ -22,7 +22,7 @@ All the unsupervised learning algorithms in this project are self created and pr
 The algorithms are in the notebook [Unsupervised_Learning_Juliana_Henao.ipynb](https://github.com/jhenaoa4/Unsupervised-learning-algorithms-from-scratch/blob/main/Unsupervised_Learning_Juliana_Henao.ipynb/). And there you can find:
 
 - K means clustering
-- Fuzzy
+- Fuzzy C-means
 - C-means clustering
 - Trimmed k-means clustering
 
